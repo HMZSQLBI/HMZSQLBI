@@ -13,7 +13,7 @@ I'm passionate about turning data into insights and solving real-world problems.
 
 ### Projects I'm working on:
 
-- [SQL Healthcare Data Analysis](https://github.com/hodamemardata/sql-healthcare-analysis)  
+- [SQL Healthcare Data Analysis](https://github.com/HMZSQLBI/SQL-Healthcare-Data-Analysis)  
 - [Power BI Statistical Dashboards](https://github.com/hodamemardata/powerbi-statistics-dashboards)  
 - [Python Automation Scripts](https://github.com/hodamemardata/python-excel-sql-automation)  
 
