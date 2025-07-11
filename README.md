@@ -7,7 +7,7 @@ Data Analyst | SQL & Power BI Enthusiast | Python Learner
 I'm passionate about turning data into insights and solving real-world problems.
 
 📫 Reach me at: hodamemardata@gmail.com  
-📺 YouTube: [https://your-portfolio-url.com](https://www.youtube.com/@LearnSQLPersian)  
+📺 YouTube: [https://www.youtube.com/@LearnSQLPersian]
 
 ---
 
